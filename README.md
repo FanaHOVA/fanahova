@@ -1,9 +1,19 @@
-### Hey there 👋
+```
+   ▄████████    ▄████████ ███▄▄▄▄      ▄████████    ▄█    █▄     ▄██████▄   ▄█    █▄     ▄████████ 
+  ███    ███   ███    ███ ███▀▀▀██▄   ███    ███   ███    ███   ███    ███ ███    ███   ███    ███ 
+  ███    █▀    ███    ███ ███   ███   ███    ███   ███    ███   ███    ███ ███    ███   ███    ███ 
+ ▄███▄▄▄       ███    ███ ███   ███   ███    ███  ▄███▄▄▄▄███▄▄ ███    ███ ███    ███   ███    ███ 
+▀▀███▀▀▀     ▀███████████ ███   ███ ▀███████████ ▀▀███▀▀▀▀███▀  ███    ███ ███    ███ ▀███████████ 
+  ███          ███    ███ ███   ███   ███    ███   ███    ███   ███    ███ ███    ███   ███    ███ 
+  ███          ███    ███ ███   ███   ███    ███   ███    ███   ███    ███ ███    ███   ███    ███ 
+  ███          ███    █▀   ▀█   █▀    ███    █▀    ███    █▀     ▀██████▀   ▀██████▀    ███    █▀  
+                                                                                                   
+```
 
-Currently working on a bunch of stuff:
-- [Hacking around the LLM space](https://github.com/FanaHOVA/cookbooks)
-- Solving my problems with [smol-podcaster](https://github.com/fanahova) and [podcast-summarizer](https://github.com/FanaHOVA/podcast-summarizer)
-- Shipped the [LangChainHub UI](https://github.com/FanaHOVA/langchain-hub-ui)
-- Hosting the [Latent Space Podcast](https://lspace.swyx.io/) with @swyx, interviewing AI/ML builders
+Current projects
+- [smol-podcaster](https://github.com/fanahova): give it a podcast audio, get back show notes, timestamps, diarized transcription, etc.
+- Hosting the [Latent Space Podcast](https://latent.space/) with @swyx, interviewing AI/ML builders
+- Building internal tools at Decibel; AI research agents, startups sourcing software, all that fun stuff.
 
 My DMs are open on Twitter [@fanahova](https://twitter.com/fanahova)
+
