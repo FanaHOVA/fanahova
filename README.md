@@ -17,6 +17,7 @@ Current projects
 - [awt](https://github.com/Kernel-Labs-AI/awt), a cli-based worktree manager for AI agents
 - [PiQueue](https://github.com/Kernel-Labs-AI/piqueue), simple way for users to submit coding prompts to your codebase
 - [Slop Meter](https://slopmeter.kernellabs.ai/), track a user Github history and tendency to push slop
+- [focus](https://github.com/FanaHOVA/focus), block any distracting website right from your cli
 - [SpikeLab](https://www.spikelab.gg/), analytics for competitive TCG players.
 - Building internal tools at Decibel; AI research agents, startups sourcing software, all that fun stuff.
 
